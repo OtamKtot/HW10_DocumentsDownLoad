@@ -1,0 +1,8 @@
+{
+  "firstName": "Naruto",
+  "lastName": "Uzumaki",
+  "phoneNumber": "999-888-77-66",
+  "dateOfBirth": "10-10-1999",
+  "interests": ["village", "friends", "sport"],
+  "age": 23
+}
