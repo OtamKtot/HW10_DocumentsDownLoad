@@ -14,7 +14,7 @@ import static com.codeborne.pdftest.assertj.Assertions.assertThat;
 
 public class JsonTest {
     private static String jsonFile = "json/Example.json";
-    private static ClassLoader classLoader = ZipFilesCheckTest.class.getClassLoader();
+    private static ClassLoader classLoader = JsonTest.class.getClassLoader();
     private static ObjectMapper objectMapper = new ObjectMapper();
 
     @Test
